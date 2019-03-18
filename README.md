@@ -5,6 +5,7 @@
 
 
 ## 6 Heapsort
-  ###heapsort
+  ### heapsort
+
   #### 6.5 Priority queues
 
